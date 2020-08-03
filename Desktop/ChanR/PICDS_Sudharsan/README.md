@@ -20,9 +20,9 @@ The timeline is not final and the student may extend his involvement period with
 Student will be independently navigating the following core topics of study:
 
 1. Social media data mining to learn more about people’s perception about GMO.
-2. Curating the data: applying NLP to process and analyze the unstructured data. 
+2. Curating the data: applying NLP to process and analyze the unstructured data.
 3. Visualization of language (word cloud, clustering, embeddings (word2vec models), tf-idf) https://projector.tensorflow.org/
-4. Time-series analysis
+4. Time-series analysis.
 5. Offer a potential solution to change consumer’s perception about GMO-derived products depending on the research findings and analysis.
 
 1 to 2 projects will be completed involving data analysis and presentation of the finding.
